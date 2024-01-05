@@ -19,10 +19,11 @@
 <p>
  <img align="right" width="350" src="/isi/Pixel Jeff_ Photo.gif" alt="Coding gif" />
 
-🍂 &emsp; Hobby : learn new things<br/><br/>
-🍁 &emsp; Bot Whatsapp : [Vintage Library](https://wa.me//6283193429690)<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://wa.me//6281224994511) <br/><br/>
- 🌏 &emsp; Enjoy to do programming and sharing knowledge
+🌏 &emsp; Enjoy to do programming and sharing knowledge<br/>
+🍂 &emsp; Hobby : learn new things<br/>
+🍁 &emsp; Bot Whatsapp : [Vintage Library](https://wa.me//6283193429690)<br/>
+💬 &emsp; Ask me about anything [here](https://wa.me//6281224994511) 
+
  
 </p>
 
