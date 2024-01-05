@@ -17,7 +17,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/isi/Pixel Jeff_ Photo.gif" alt="Coding gif" />
+ <img align="right" width="300" src="/isi/Pixel Jeff_ Photo.gif" alt="Coding gif" />
 
 <samp>
 🌏 &emsp; Enjoy to do programming and sharing knowledge<br/><br/>
