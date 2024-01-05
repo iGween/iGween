@@ -1,5 +1,5 @@
 <p align="center"> 
-<a href="wa.me//081224994511"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+My+Name+Is+Gween;Nice+Meeting+You;I'm+Still+In+The+Learning+Stage;Thanks+You&center=true"></a>
+<a href="[wa.me//081224994511](https://wa.me//6281224994511)"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+My+Name+Is+Gween;Nice+Meeting+You;I'm+Still+In+The+Learning+Stage;Thanks+You&center=true"></a>
    </p>
    
 <h3 align="center">
