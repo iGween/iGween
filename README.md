@@ -19,11 +19,11 @@
 <p>
  <img align="right" width="350" src="/isi/Pixel Jeff_ Photo.gif" alt="Coding gif" />
   
- 🌏&emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- 🍂&emsp; Love to writing code and learning new features<br/><br/>
- 🍁&emsp; Bot Whatsapp Vintage : [Demo Vintage Library](https://wa.me//6283193429690)<br/><br/>
- 💬&emsp; Ask me about anything [here](https://wa.me//6281224994511)
- 📜&emsp; In Wirklichkeit ist das Leben eine traurige Sache, es gibt nur Leid, Schmerz, Glück ist nur eine Illusion <br/><br/>
+ 🌏 &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ 🍂 &emsp; Love to writing code and learning new features<br/><br/>
+ 🍁 &emsp; Bot Whatsapp Vintage : [Demo Vintage Library](https://wa.me//6283193429690)<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://wa.me//6281224994511)<br/><br/>
+ 📜 &emsp; In Wirklichkeit ist das Leben eine traurige Sache, es gibt nur Leid, Schmerz, Glück ist nur eine Illusion
 
 </p>
 
