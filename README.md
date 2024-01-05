@@ -19,7 +19,6 @@
 <p>
  <img align="right" width="350" src="/isi/Pixel Jeff_ Photo.gif" alt="Coding gif" />
 
-  <br>
  🌏 &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  🍂 &emsp; Love to writing code and learning new features<br/><br/>
  🍁 &emsp; Bot Whatsapp Vintage : [Demo Vintage Library](https://wa.me//6283193429690)<br/><br/>
