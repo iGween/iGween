@@ -1,6 +1,6 @@
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://wa.me//6281224994511">Gween</a></b>
+                <b><a target="_blank" href="https://wa.me//6281224994511">Gween 🍁</a></b>
         </samp>
 </h3>
 
@@ -8,7 +8,7 @@
   <samp>
     <a href="https://wa.me//6281224994511">「 WhatsApp Number 」</a>
     <br>
-    「 I am just a newbie programmer 」
+    「 📜 I am just a newbie programmer 」
     <br>
     <br>
   </samp>
@@ -22,9 +22,8 @@
  🌏 &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  🍂 &emsp; Love to writing code and learning new features<br/><br/>
  🍁 &emsp; Bot Whatsapp Vintage : [Demo Vintage Library](https://wa.me//6283193429690)<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://wa.me//6281224994511)<br/><br/>
- 📜 &emsp; In Wirklichkeit ist das Leben eine traurige Sache, es gibt nur Leid, Schmerz, Glück ist nur eine Illusion
-
+ 💬 &emsp; Ask me about anything [here](https://wa.me//6281224994511)
+ 
 </p>
 
 <br/>
