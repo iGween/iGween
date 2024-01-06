@@ -36,7 +36,7 @@
 <br/>
 <br/>
 
-## Use To Code
+## Language 
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -60,3 +60,20 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
+
+## Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CrewMate019&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<p align="center" class="d-flex justify-content-center align-items-center">
+
+  <a href="https://github.com/CrewMate019">
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CrewMate019&layout=compact&langs_count=8&theme=omni"/>
+
+  </a>
+
+</p>
+
