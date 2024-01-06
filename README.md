@@ -12,7 +12,7 @@
   <samp>
     <a href="https://wa.me//6281224994511">「 WhatsApp Number 」</a>
     <br>
-    「 📜 I am just a newbie programmer 」
+    「 📜 I'm just a programmer 」
     <br>
     <br>
   </samp>
