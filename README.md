@@ -18,7 +18,7 @@
   </samp>
 </p>
  
- # About me 🌿
+## About me 🌿
  
 <p>
  <img align="right" width="300" src="/isi/Pixel Jeff_ Photo.gif" alt="Coding gif" />
