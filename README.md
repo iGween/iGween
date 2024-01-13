@@ -64,14 +64,14 @@
 ## Stats 🍂
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CrewMate019&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=iGween&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 <p align="center" class="d-flex justify-content-center align-items-center">
 
   <a href="iGween">
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CrewMate019&layout=compact&langs_count=8&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iGween&layout=compact&langs_count=8&theme=omni"/>
 
   </a>
 
