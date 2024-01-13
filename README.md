@@ -18,7 +18,7 @@
   </samp>
 </p>
  
- # About me
+ # About me 🌿
  
 <p>
  <img align="right" width="300" src="/isi/Pixel Jeff_ Photo.gif" alt="Coding gif" />
@@ -36,7 +36,7 @@
 <br/>
 <br/>
 
-## Language 
+## Language 🍃
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -61,7 +61,7 @@
 
 <br/>
 
-## Stats
+## Stats 🍂
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=CrewMate019&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
