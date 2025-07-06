@@ -4,7 +4,6 @@
    
 <h3 align="center">
         <samp>&gt; <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> Hey There!, I am
-  <b><a target="_blank" href="https://wa.me//6281224994511">Gween 🍁</a></b>
         </samp>
 </h3>
 
